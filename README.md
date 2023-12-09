@@ -17,15 +17,32 @@ Hey there! I'm Jibon Krishna, a passionate Web Developer from Rangpur, Banglades
 
 I'm on a mission to craft delightful and functional web applications using the HTML, CSS, Vanila JS, MongoDB, Express.js, React, Node.js. With a keen eye for detail and a love for clean, efficient code, I bring creativity and dedication to every project I undertake.
 
-## 💼 My Recent Projects
+## 💼 About My Recent Projects
 
 ### Survey Wave Website
 Live Site: [https://survey-wave-site.web.app](https://survey-wave-site.web.app)
+
 Features:
 - Secure authentication, user roles, and MongoDB CRUD operations.
 - Integrated diverse payment methods for efficient transactions.
 - Engaging features like Likes, Comments, and Reports thoughtfully.
 - Dynamic, responsive UI with Material-UI, Tailwind CSS, and Flowbite for an engaging user experience.
+
+### Job Hunter - Job Search Website
+Live Site: [https://job-hunter-site.web.app](https://job-hunter-site.web.app/)
+
+Features:
+- A job portal website, empowering users to seamlessly post, update, and delete job listings.
+- Application process for job seekers, enabling them to apply for posted jobs.
+- Elevated job owner functionality for comprehensive applicant management, enabling prompt decision-making.
+
+### Socio Events - Event Magement Site
+Live site: [https://socio-events.web.app](https://socio-events.web.app)
+
+Features
+- Social event management service featuring service information and seamless purchase capabilities.
+- User profile creation and update functionalities for enhanced personalization.
+- Secure private routes requiring login access, featuring AOS and captivating animations.
 
 
 ## 🔧 Skills
