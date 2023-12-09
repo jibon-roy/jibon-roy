@@ -15,11 +15,17 @@ Hey there! I'm Jibon Krishna, a passionate Web Developer from Rangpur, Banglades
 
 ## 🚀 About Me
 
-I'm on a mission to craft delightful and functional web applications using the MERN (MongoDB, Express.js, React, Node.js) stack. With a keen eye for detail and a love for clean, efficient code, I bring creativity and dedication to every project I undertake.
+I'm on a mission to craft delightful and functional web applications using the HTML, CSS, Vanila JS, MongoDB, Express.js, React, Node.js. With a keen eye for detail and a love for clean, efficient code, I bring creativity and dedication to every project I undertake.
 
-## 💼 What I'm Working On
+## 💼 My Recent Projects
 
-Currently, I'm collaborating on [Project Name], where we're building [Brief Description of the Project]. Our goal is to [Project Goal/Outcome], and I'm excited about the impact it will have.
+### Survey Wave Website
+Live Site: [https://survey-wave-site.web.app](https://survey-wave-site.web.app)
+Features:
+- Secure authentication, user roles, and MongoDB CRUD operations.
+- Integrated diverse payment methods for efficient transactions.
+- Engaging features like Likes, Comments, and Reports thoughtfully.
+- Dynamic, responsive UI with Material-UI, Tailwind CSS, and Flowbite for an engaging user experience.
 
 
 ## 🔧 Skills
