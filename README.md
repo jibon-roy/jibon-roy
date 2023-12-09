@@ -1,7 +1,9 @@
 # 👋 Jibon Krishna Roy - Web Developer
 
+![Profile Image](https://raw.githubusercontent.com/jibon-roy/jibon-roy/main/src/profile.png)
+
 Hey there! I'm Jibon Krishna, a passionate Web Developer from Rangpur, Bangladesh. Welcome to my GitHub repository, where I showcase my skills, projects, and contributions to the tech community.
-<div style="text-align: center; margin-auto">
+<div style="text-align: center; margin: auto">
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jibon-roy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
