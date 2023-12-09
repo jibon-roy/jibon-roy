@@ -55,7 +55,8 @@ Features
 ## I'm Working with
 
 <div class="display:flex; justify-content: center; gap: 50px 50px ">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="60"/> <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="100"/> <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" width="100"/> <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="55"/> <img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" width="60"/> <img src="https://img.icons8.com/color/452/express.png" alt="Express.js" width="60"/> <img src="https://img.icons8.com/color/452/nodejs.png" alt="Node.js" width="60"/>
+
 
 </div>
 
