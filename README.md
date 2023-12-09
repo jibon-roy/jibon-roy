@@ -1,12 +1,35 @@
-# 👋 Hi, I’m jibon
-## ${\color{blue} 👀 \ I’m \ a \ professional \ web \ developer.}$
-##  💞️ I’m  looking  to  collaborate  on React Js,  Next Js, Node Js, Express Js, MongoDB, Python,  C# &  Java.
-### 🌱 I’m currently learning at programming hero web development master course.
 
-- 📫 If you have any feedback for me please mail me at: mailme.jibon@gmail.com.
-- ++++++++++++++++ Thank You +++++++++++++++
+# 👋 Hello,
 
-<!---
-jibongit/jibongit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # BRANCH_NAME is optional, default to main, branch name to push cards
+          BRANCH_NAME: "main"
+          # UTC_OFFSET is optional, default to zero
+          UTC_OFFSET: 8 
+          # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
+          EXCLUDE: ""
+          # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch 
+          AUTO_PUSH: true
+
+
+
