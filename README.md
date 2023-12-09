@@ -1,7 +1,7 @@
 # 👋 Jibon Krishna Roy - Web Developer
 
-Hey there! 👋 I'm Jibon Krishna, a passionate Web Developer from Rangpur, Bangladesh. Welcome to my GitHub repository, where I showcase my skills, projects, and contributions to the tech community.
-<center>
+Hey there! I'm Jibon Krishna, a passionate Web Developer from Rangpur, Bangladesh. Welcome to my GitHub repository, where I showcase my skills, projects, and contributions to the tech community.
+<div style="text-align: center; margin-auto">
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jibon-roy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -9,29 +9,29 @@ Hey there! 👋 I'm Jibon Krishna, a passionate Web Developer from Rangpur, Bang
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jibon-roy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-</center>
+</div>
 
-## About Me
+## 🚀 About Me
 
 I'm on a mission to craft delightful and functional web applications using the MERN (MongoDB, Express.js, React, Node.js) stack. With a keen eye for detail and a love for clean, efficient code, I bring creativity and dedication to every project I undertake.
 
-## What I'm Working On
+## 💼 What I'm Working On
 
 Currently, I'm collaborating on [Project Name], where we're building [Brief Description of the Project]. Our goal is to [Project Goal/Outcome], and I'm excited about the impact it will have.
 
 
-## Skills
+## 🔧 Skills
 
 - Full-stack development
 - RESTful API design and implementation
 - Responsive and user-friendly UI/UX
 - Database modeling and management
 
-## Learning & Growing
+## 🌱 Learning & Growing
 
-I believe in continuous learning and staying updated with the latest technologies. Currently, I'm diving into [Technology or Skill You're Learning], and I'm always open to new challenges and opportunities for growth.
+I believe in continuous learning and staying updated with the latest technologies. Currently, I'm diving into My web development career, and I'm always open to new challenges and opportunities for growth.
 
-## Let's Collaborate
+## 🤝 Let's Collaborate
 
 I'm open to collaboration on interesting projects or contributing to impactful open-source initiatives. If you're looking for a MERN Stack developer or have an exciting project in mind, feel free to reach out. Let's build something great together!
 
