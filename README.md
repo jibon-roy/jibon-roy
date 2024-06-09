@@ -2,7 +2,7 @@
 
 ![Profile Image](https://raw.githubusercontent.com/jibon-roy/jibon-roy/main/src/profile.png)
 
-Hey there! I'm Jibon Krishna roy, a passionate Web Developer from Rangpur, Bangladesh. Welcome to my GitHub repository, where I showcase my skills, projects, and contributions to the tech community.
+Hey there! I'm Jibon Krishna Roy, a passionate Web Developer from Rangpur, Bangladesh. Welcome to my GitHub repository, where I showcase my skills, projects, and contributions to the tech community.
 <div align="center">
 
 # 📊 GitHub Stats:
