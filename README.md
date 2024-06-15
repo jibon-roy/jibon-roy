@@ -15,7 +15,7 @@ Hey there! I'm Jibon Krishna Roy, a passionate Web Developer from Rangpur, Bangl
 
 ## 🚀 About Me
 
-I'm on a mission to craft delightful and functional web applications using the HTML, CSS, Vanila JS, MongoDB, Express.js, React, Node.js. With a keen eye for detail and a love for clean, efficient code, I bring creativity and dedication to every project I undertake.
+I'm on a mission to craft delightful and functional web applications using the HTML, CSS, Vanila JS, MongoDB, Express.js, React.js, Node.js. With a keen eye for detail and a love for clean, efficient code, I bring creativity and dedication to every project I undertake.
 
 ## 💼 About My Recent Projects
 
