@@ -45,7 +45,7 @@ Features
 - Secure private routes requiring login access, featuring AOS and captivating animations.
 
 
-## 🔧 Skills
+## 🔧 My Skills
 
 - Full-stack development
 - RESTful API design and implementation
