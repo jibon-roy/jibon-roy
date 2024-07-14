@@ -72,25 +72,24 @@ Features
 
 ## I'm Working with
 
-<h2>My Skills in Technologies</h2>
 <div align="center">
 <br>
-<img style="width: 10%;" src="images/html.svg" alt="">
-<img style="width: 10%;" src="images/css.svg" alt="">
-<img style="width: 10%;" src="images/java.svg" alt="">
-<img style="width: 10%;" src="images/Metarial.svg" alt="">
+<img style="width: 10%;" src="src/html.svg" alt="">
+<img style="width: 10%;" src="src/css.svg" alt="">
+<img style="width: 10%;" src="src/java.svg" alt="">
+<img style="width: 10%;" src="src/Metarial.svg" alt="">
 </div>
 <br>
 <div align="center">
 
-<img style="width: 10%;" src="images/react.svg" alt="">
-<img style="width: 10%;" src="images/node.svg" alt="">
-<img style="width: 10%;" src="images/meta.svg" alt="">
+<img style="width: 10%;" src="src/react.svg" alt="">
+<img style="width: 10%;" src="src/node.svg" alt="">
+<img style="width: 10%;" src="src/meta.svg" alt="">
 </div>
 <br>
 <div align="center" style="margin-bottom: 10px;">
-<img style="width: 10%;" src="images/express.svg" alt="">
-<img style="width: 10%;" src="images/mongo.svg" alt="">
+<img style="width: 10%;" src="src/express.svg" alt="">
+<img style="width: 10%;" src="src/mongo.svg" alt="">
 
 </div>
 
