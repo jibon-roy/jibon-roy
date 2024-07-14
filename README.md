@@ -2,7 +2,7 @@
 
 ![Profile Image](https://raw.githubusercontent.com/jibon-roy/jibon-roy/main/src/profile.png)
 
-Hey there! I'm Jibon Krishna Roy, a passionate Web Developer from Rangpur, Bangladesh. Welcome to my GitHub repository, where I showcase my skills, projects, and contributions to the tech community.
+Hey there! I'm Jibon Krishna Roy, a passionate Web Developer from Dhaka, Bangladesh. Welcome to my GitHub repository, where I showcase my skills, projects, and contributions to the tech community.
 <div align="center">
 
 # 📊 GitHub Stats:
@@ -15,7 +15,7 @@ Hey there! I'm Jibon Krishna Roy, a passionate Web Developer from Rangpur, Bangl
 
 ## 🚀 About Me
 
-I'm on a mission to craft delightful and functional web applications using the HTML, CSS, Vanila JS, MongoDB, Express.js, React.js, Node.js. With a keen eye for detail and a love for clean, efficient code, I bring creativity and dedication to every project I undertake.
+I'm on a mission to craft delightful and functional web applications using the HTML, CSS, Vanila JS, MongoDB, Express.js, React.js, Node.js. With a keen eye for detail and a love for clean, efficient code, I bring creativity and dedication to every project I undertake. I'm open to collaboration on interesting projects or contributing to impactful open-source initiatives. If you're looking for a MERN Stack developer or have an exciting project in mind, feel free to reach out. Let's build something great together!
 
 ## 💼 About My Recent Projects
 
@@ -52,37 +52,48 @@ Features
 - Responsive and user-friendly UI/UX
 - Database modeling and management
 
-## I'm Working with
-
-<div class="display:flex; justify-content: center; gap: 50px 50px ">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="55"/> <img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" width="60"/> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express.js" width="60"/>  <img src="https://img.icons8.com/color/452/nodejs.png" alt="Node.js" width="60"/>
-</div>
 
 <h1>Summary cards of my activities</h1>
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jibon-roy&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jibon-roy&theme=monokai)
 </div>
 
 <div align="center" style="display: flex;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jibon-roy&theme=2077" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jibon-roy&theme=2077" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jibon-roy&theme=monokai" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jibon-roy&theme=monokai" />
 </div>
 
 <div align="center" style="display : flex">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jibon-roy&theme=2077"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jibon-roy&theme=2077&utcOffset=8"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jibon-roy&theme=monokai"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jibon-roy&theme=monokai&utcOffset=8"/>
 </div>
 
+## I'm Working with
 
-## 🌱 Learning & Growing
+<h2>My Skills in Technologies</h2>
+<div align="center">
+<br>
+<img style="width: 10%;" src="images/html.svg" alt="">
+<img style="width: 10%;" src="images/css.svg" alt="">
+<img style="width: 10%;" src="images/java.svg" alt="">
+<img style="width: 10%;" src="images/Metarial.svg" alt="">
+</div>
+<br>
+<div align="center">
 
-I believe in continuous learning and staying updated with the latest technologies. Currently, I'm diving into My web development career, and I'm always open to new challenges and opportunities for growth.
+<img style="width: 10%;" src="images/react.svg" alt="">
+<img style="width: 10%;" src="images/node.svg" alt="">
+<img style="width: 10%;" src="images/meta.svg" alt="">
+</div>
+<br>
+<div align="center" style="margin-bottom: 10px;">
+<img style="width: 10%;" src="images/express.svg" alt="">
+<img style="width: 10%;" src="images/mongo.svg" alt="">
 
-## 🤝 Let's Collaborate
+</div>
 
-I'm open to collaboration on interesting projects or contributing to impactful open-source initiatives. If you're looking for a MERN Stack developer or have an exciting project in mind, feel free to reach out. Let's build something great together!
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
