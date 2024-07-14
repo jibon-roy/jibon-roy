@@ -56,8 +56,23 @@ Features
 
 <div class="display:flex; justify-content: center; gap: 50px 50px ">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="55"/> <img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" width="60"/> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express.js" width="60"/>  <img src="https://img.icons8.com/color/452/nodejs.png" alt="Node.js" width="60"/>
+</div>
 
+<h1>Summary cards of my activities</h1>
+<div align="center">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jibon-roy&theme=2077)
+</div>
+
+<div align="center" style="display: flex;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jibon-roy&theme=2077" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jibon-roy&theme=2077" />
+</div>
+
+<div align="center" style="display : flex">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jibon-roy&theme=2077"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jibon-roy&theme=2077&utcOffset=8"/>
 </div>
 
 
