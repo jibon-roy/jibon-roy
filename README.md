@@ -56,18 +56,18 @@ Features
 <h1>Summary cards of my activities</h1>
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jibon-roy&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jibon-roy&theme=jolly)
 </div>
 
 <div align="center" style="display: flex;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jibon-roy&theme=monokai" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jibon-roy&theme=monokai" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jibon-roy&theme=jolly" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jibon-roy&theme=jolly" />
 </div>
 
 <div align="center" style="display : flex">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jibon-roy&theme=monokai"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jibon-roy&theme=monokai&utcOffset=8"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jibon-roy&theme=jolly"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jibon-roy&theme=jolly&utcOffset=8"/>
 </div>
 
 ## I'm Working with
@@ -94,7 +94,7 @@ Features
 </div>
 
 
-# 💻 Tech Stack:
+# 💻 Other Tech Stacks:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
