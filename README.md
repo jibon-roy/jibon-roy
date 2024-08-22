@@ -1,4 +1,4 @@
-# 👋 Jibon Krishna Roy - MERN stuck Web Developer
+# 👋 Jibon Krishna Roy - Full stuck Web Developer
 
 ![Profile Image](https://raw.githubusercontent.com/jibon-roy/jibon-roy/main/src/profile.png)
 
