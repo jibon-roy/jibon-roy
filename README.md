@@ -51,7 +51,6 @@ Features
 - Responsive and user-friendly UI/UX
 - Database modeling and management
 
-
 <h1>Summary cards of my activities</h1>
 <div align="center">
 
