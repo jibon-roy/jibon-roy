@@ -43,7 +43,6 @@ Features
 - User profile creation and update functionalities for enhanced personalization.
 - Secure private routes requiring login access, featuring AOS and captivating animations.
 
-
 ## 🔧 My Skills
 
 - Full-stack development
