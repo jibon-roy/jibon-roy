@@ -62,7 +62,6 @@ Features
 </div>
 
 <div align="center" style="display : flex">
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jibon-roy&theme=jolly"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jibon-roy&theme=jolly&utcOffset=8"/>
 </div>
