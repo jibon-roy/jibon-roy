@@ -50,7 +50,7 @@ Features
 - Responsive and user-friendly UI/UX
 - Database modeling and management
 
-<h1>Summary cards of my activities</h1>
+## Summary cards of my activities
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jibon-roy&theme=jolly)
