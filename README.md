@@ -52,7 +52,7 @@ Features
 
 ## Summary cards of my activities
 <div align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jibon-roy&theme=jolly)
+
 </div>
 
 <div align="center" style="display: flex;">
