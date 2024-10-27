@@ -85,7 +85,6 @@ Features
 <div align="center" style="margin-bottom: 10px;">
 <img style="width: 10%;" src="src/express.svg" alt="">
 <img style="width: 10%;" src="src/mongo.svg" alt="">
-
 </div>
 
 # 💻 Other Tech Stacks:
