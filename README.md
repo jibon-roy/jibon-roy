@@ -57,6 +57,7 @@ Features
 
 <div align="center" style="display: flex;">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jibon-roy&theme=jolly" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jibon-roy&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jibon-roy&theme=jolly" />
 </div>
 
