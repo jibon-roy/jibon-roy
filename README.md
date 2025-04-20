@@ -27,7 +27,9 @@ Hey there! I'm Jibon Krishna Roy, a passionate Web Developer from Dhaka, Banglad
 
 ## 🚀 About Me
 
-I'm on a mission to craft delightful and functional web applications using the HTML, CSS, Vanila JS, MongoDB, Express.js, React.js, Node.js. With a keen eye for detail and a love for clean, efficient code, I bring creativity and dedication to every project I undertake. I'm open to collaboration on interesting projects or contributing to impactful open-source initiatives. If you're looking for a MERN Stack developer or have an exciting project in mind, feel free to reach out. Let's build something great together!
+<p class="" data-start="202" data-end="474">I'm a <strong data-start="208" data-end="232">Full Stack Developer</strong> with a passion for building web applications that are both user-friendly and efficient. I work with technologies like <strong data-start="351" data-end="428"> React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Prisma, Mongoose, MongoDB, Express.js and Node.js</strong> to create clean and responsive web solutions.</p>
+<p class="" data-start="476" data-end="731">With a strong focus on detail and a love for clean, maintainable code, I approach every project with creativity and dedication. Whether it's building from scratch or improving an existing application, I aim to deliver real value through well-crafted code.</p>
+<p class="" data-start="733" data-end="990">I'm always open to <strong data-start="752" data-end="790">collaborating on exciting projects</strong> or contributing to <strong data-start="810" data-end="848">meaningful open-source initiatives</strong>. If you're looking for a reliable developer or have an idea you'd like to bring to life &mdash; let&rsquo;s connect and build something amazing together!</p>
 
 ## 💼 About My Recent Projects
 
