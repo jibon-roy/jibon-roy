@@ -16,8 +16,14 @@ Hey there! I'm Jibon Krishna Roy, a passionate Web Developer from Dhaka, Banglad
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=jibon-roy&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img 
+    src="https://github-profile-trophy.vercel.app?username=jibon-roy&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" 
+    alt="GitHub Trophy"
+    style="width: 100%; max-width: 600px; height: auto;"
+  />
 </div>
+
+
 
 ## 🚀 About Me
 
@@ -94,6 +100,7 @@ Features
 <img style="width: 10%;" src="src/mongo.svg" alt="">
 </div>
 
+<!--
 # 💻 Other Tech Stacks:
 
 <div align="center">
@@ -123,7 +130,7 @@ Features
     </tr>
   </table>
 </div>
-
+-->
 
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
 
