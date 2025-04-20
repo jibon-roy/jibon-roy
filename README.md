@@ -15,6 +15,10 @@ Hey there! I'm Jibon Krishna Roy, a passionate Web Developer from Dhaka, Banglad
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibon-roy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=jibon-roy&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 ## 🚀 About Me
 
 I'm on a mission to craft delightful and functional web applications using the HTML, CSS, Vanila JS, MongoDB, Express.js, React.js, Node.js. With a keen eye for detail and a love for clean, efficient code, I bring creativity and dedication to every project I undertake. I'm open to collaboration on interesting projects or contributing to impactful open-source initiatives. If you're looking for a MERN Stack developer or have an exciting project in mind, feel free to reach out. Let's build something great together!
