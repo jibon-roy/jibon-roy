@@ -67,6 +67,13 @@ Features
 - Secure private routes requiring login access, featuring AOS and captivating animations.
 
 ## Summary cards of my activities
+
+
+<div align="center">
+<img src="https://ghchart.rshah.org/jibon-roy" alt="GitHub Contributions Chart">
+</div>
+<br />
+
 <div align="center">
 
 </div>
