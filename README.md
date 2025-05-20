@@ -58,16 +58,7 @@ Features:
 - Application process for job seekers, enabling them to apply for posted jobs.
 - Elevated job owner functionality for comprehensive applicant management, enabling prompt decision-making.
 
-### Socio Events - Event Magement Site
-Live site: [https://socio-events.web.app](https://socio-events.web.app)
-
-Features
-- Social event management service featuring service information and seamless purchase capabilities.
-- User profile creation and update functionalities for enhanced personalization.
-- Secure private routes requiring login access, featuring AOS and captivating animations.
-
 ## Summary cards of my activities
-
 
 <div align="center">
 <img src="https://ghchart.rshah.org/jibon-roy" alt="GitHub Contributions Chart">
