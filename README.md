@@ -31,6 +31,8 @@ Hey there! I'm Jibon Krishna Roy, a passionate Web Developer from Dhaka, Banglad
 <p class="" data-start="476" data-end="731">With a strong focus on detail and a love for clean, maintainable code, I approach every project with creativity and dedication. Whether it's building from scratch or improving an existing application, I aim to deliver real value through well-crafted code.</p>
 <p class="" data-start="733" data-end="990">I'm always open to <strong data-start="752" data-end="790">collaborating on exciting projects</strong> or contributing to <strong data-start="810" data-end="848">meaningful open-source initiatives</strong>. If you're looking for a reliable developer or have an idea you'd like to bring to life &mdash; let&rsquo;s connect and build something amazing together!</p>
 
+Visite my portfolio: [https://dev-jibon.web.app](https://dev-jibon.web.app/)
+
 ## 🔧 My Skills
 - Programming Languages: `TypeScript, JavaScript, C, Python`
 - Responsive Frontend development with `Next.js, React.js, Vite, Redux, RTKQuery, TanStackQuery, Axios, TailwindCSS, SCSS`
