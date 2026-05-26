@@ -1,11 +1,13 @@
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
 
+<div align="center">
+<a href="https://app.daily.dev/jibonkrishnaroy"><img src="https://api.daily.dev/devcards/v2/mPPbQk4b2aoRz5WA2Lxez.png?type=wide&r=ua9" width="652" alt="Jibon Krishna Roy's Dev Card"/></a>
+
 # 👋 Jibon Krishna Roy - Full stuck Web Developer
 
-![Profile Image](https://raw.githubusercontent.com/jibon-roy/jibon-roy/main/src/anime.gif)
+<!-- ![Profile Image](https://raw.githubusercontent.com/jibon-roy/jibon-roy/main/src/anime.gif) -->
 
 Hey there! I'm Jibon Krishna Roy, a passionate Web Developer from Dhaka, Bangladesh. Welcome to my GitHub repository, where I showcase my skills, projects, and contributions to the tech community.
-<div align="center">
 
 
 # 📊 My GitHub Stats:
