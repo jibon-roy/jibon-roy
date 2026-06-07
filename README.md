@@ -12,18 +12,18 @@ Hey there! I'm Jibon Krishna Roy, a passionate Web Developer from Dhaka, Banglad
 
 # 📊 My GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=jibon-roy&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> <br />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jibon-roy&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> <br /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibon-roy&theme=dark&hide_border=false" alt="GitHub Streak" /> <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibon-roy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibon-roy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /> -->
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img 
     src="https://github-profile-trophy.vercel.app?username=jibon-roy&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" 
     alt="GitHub Trophy"
     style="width: 100%; max-width: 600px; height: auto;"
   />
-</div>
+</div> -->
 
 
 
